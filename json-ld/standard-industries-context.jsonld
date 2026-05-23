@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "si": "https://standardindustries.com/vocab/",
+
+    "Organization": "schema:Organization",
+    "Corporation": "schema:Corporation",
+    "HoldingCompany": "si:HoldingCompany",
+    "OperatingCompany": "si:OperatingCompany",
+    "Subsidiary": {
+      "@id": "schema:subOrganization",
+      "@type": "schema:Organization"
+    },
+    "parentOrganization": {
+      "@id": "schema:parentOrganization",
+      "@type": "schema:Organization"
+    },
+
+    "name": "schema:name",
+    "legalName": "schema:legalName",
+    "description": "schema:description",
+    "url": "schema:url",
+    "foundingDate": "schema:foundingDate",
+    "foundingLocation": "schema:foundingLocation",
+    "headquarters": "schema:location",
+    "numberOfEmployees": "schema:numberOfEmployees",
+    "annualRevenue": "si:annualRevenue",
+    "ownership": "si:ownership",
+
+    "BusinessSegment": "si:BusinessSegment",
+    "buildingSolutions": "si:buildingSolutions",
+    "performanceMaterials": "si:performanceMaterials",
+    "investments": "si:investments",
+    "realEstate": "si:realEstate",
+
+    "Roofing": "si:Roofing",
+    "Waterproofing": "si:Waterproofing",
+    "SolarRoofing": "si:SolarRoofing",
+    "Chimney": "si:Chimney",
+    "MineralProcessing": "si:MineralProcessing",
+    "Logistics": "si:Logistics",
+    "Catalyst": "si:Catalyst",
+    "EngineeredMaterial": "si:EngineeredMaterial",
+    "FineChemical": "si:FineChemical",
+    "VentureCapital": "si:VentureCapital",
+    "PublicEquities": "si:PublicEquities",
+    "RealEstateInvestment": "si:RealEstateInvestment",
+
+    "brand": {
+      "@id": "schema:brand",
+      "@type": "schema:Brand"
+    },
+    "manufacturer": {
+      "@id": "schema:manufacturer",
+      "@type": "schema:Organization"
+    },
+    "areaServed": "schema:areaServed",
+    "industry": "si:industry"
+  }
+}

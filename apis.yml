@@ -1,0 +1,115 @@
+aid: standard-industries
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/standard-industries/refs/heads/main/apis.yml
+name: Standard Industries
+description: >-
+  Standard Industries is a privately-held global industrial company headquartered
+  in New York City and tracing its origins to 1886. The company operates a portfolio
+  of building solutions, performance materials, logistics, real estate, and
+  investment businesses, with more than 20,000 employees and approximately $11
+  billion in annual revenues. Standard Building Solutions includes GAF (North
+  America's largest roofing manufacturer), GAF Energy (Timberline Solar nailable
+  solar shingles), BMI Group (Europe's largest pitched and flat roofing
+  manufacturer, with brands including Braas, Monier, Icopal, Wolfin, and Redland),
+  Siplast (specialty roofing and waterproofing for iconic structures), SGI (mining
+  and mineral processing), Schiedel (flue, stove, and ventilation systems), and
+  Standard Logistics. Performance Materials is anchored by W. R. Grace & Co.,
+  which produces catalysts, engineered materials, process technologies, and fine
+  chemicals. Standard Investments deploys capital across public equities and
+  early-to-growth venture investments. Winter Properties is a vertically integrated
+  real estate firm with more than 100 years of history in New York City. Standard
+  Industries does not publish a public developer API or developer portal at the
+  corporate level; technology integration with customers and partners is handled
+  inside the individual operating companies (most notably GAF and Grace).
+tags:
+  - Building Materials
+  - Chemicals
+  - Industrial Holding
+  - Investments
+  - Logistics
+  - Manufacturing
+  - Performance Materials
+  - Real Estate
+  - Roofing
+  - Solar
+  - Specialty Chemicals
+  - Venture Capital
+  - Waterproofing
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Business
+x-ownership: Privately Held
+x-revenue: ~$11B
+x-employees: 20000+
+x-headquarters: New York, NY
+common:
+  - url: https://www.standardindustries.com/
+    type: Portal
+  - url: https://www.standardindustries.com/about
+    type: About
+  - url: https://www.standardindustries.com/our-businesses/standard-building-solutions
+    type: Documentation
+  - url: https://www.standardindustries.com/our-businesses/performance-materials
+    type: Documentation
+  - url: https://www.standardindustries.com/our-businesses/standard-investments
+    type: Documentation
+  - url: https://www.standardindustries.com/our-businesses/winter-properties
+    type: Documentation
+  - url: https://www.standardindustries.com/team
+    type: Team
+  - url: https://www.standardindustries.com/articles
+    type: Blog
+  - url: https://www.standardindustries.com/articles/speaker-series
+    type: Articles
+  - url: https://www.standardindustries.com/careers
+    type: Careers
+  - url: https://www.standardindustries.com/contact
+    type: Contact
+  - url: https://www.standardindustries.com/bondholders
+    type: Investor Relations
+  - url: https://www.standardindustries.com/privacy-notice
+    type: PrivacyPolicy
+  - url: https://www.standardindustries.com/terms-of-use
+    type: TermsOfService
+  - url: https://github.com/standardindustries
+    type: GitHub
+  - url: https://www.gaf.com/
+    type: Subsidiary
+    x-name: GAF
+    x-description: North America's largest roofing and waterproofing manufacturer.
+  - url: https://www.gaf.energy/
+    type: Subsidiary
+    x-name: GAF Energy
+    x-description: Timberline Solar nailable solar shingle roofing system.
+  - url: https://www.bmigroup.com/
+    type: Subsidiary
+    x-name: BMI Group
+    x-description: Europe's largest pitched and flat roofing manufacturer.
+  - url: https://www.siplast.com/
+    type: Subsidiary
+    x-name: Siplast
+    x-description: Specialty roofing and waterproofing systems for iconic structures.
+  - url: https://www.specialtygranules.com/
+    type: Subsidiary
+    x-name: SGI (Specialty Granules)
+    x-description: Mining and mineral processing for roofing and agricultural soil amendments.
+  - url: https://www.schiedel.com/
+    type: Subsidiary
+    x-name: Schiedel
+    x-description: European manufacturer of flues, chimneys, stoves, and ventilation systems.
+  - url: https://www.standardlogistics.com/
+    type: Subsidiary
+    x-name: Standard Logistics
+    x-description: Transportation and logistics provider with 22+ hub locations across the lower 48 US states.
+  - url: https://grace.com/
+    type: Subsidiary
+    x-name: W. R. Grace & Co.
+    x-description: Catalysts, engineered materials, process technologies, and fine chemicals.
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+specificationVersion: '0.19'

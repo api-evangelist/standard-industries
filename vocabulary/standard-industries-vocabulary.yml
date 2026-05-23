@@ -1,0 +1,136 @@
+name: Standard Industries Vocabulary
+description: >-
+  Vocabulary and taxonomy for Standard Industries, a privately held global
+  industrial holding company spanning building solutions, performance materials,
+  logistics, real estate, and investments.
+created: '2026-05-23'
+modified: '2026-05-23'
+terms:
+  - term: Holding Company
+    definition: >-
+      A parent corporation that owns sufficient voting stock in subsidiary
+      operating companies to control their management and policies. Standard
+      Industries operates as a privately held global industrial holding company
+      with operating businesses spanning building solutions, performance
+      materials, logistics, real estate, and investments.
+    tags: [Corporate Structure, Holding, Core Concept]
+
+  - term: Standard Building Solutions
+    definition: >-
+      The building solutions business segment of Standard Industries, comprising
+      GAF, GAF Energy, BMI Group, Siplast, SGI, Schiedel, and Standard Logistics.
+      Described internally as the world's largest roofing and waterproofing
+      company.
+    tags: [Business Segment, Building Solutions]
+
+  - term: Standard Performance Materials
+    definition: >-
+      The performance materials business segment of Standard Industries, anchored
+      by W. R. Grace & Co. Produces catalysts, engineered materials, process
+      technologies, and fine chemicals used in renewable fuels, pharmaceuticals,
+      and food packaging.
+    tags: [Business Segment, Specialty Chemicals]
+
+  - term: Standard Investments
+    definition: >-
+      The investment platform of Standard Industries, deploying capital across
+      public equities (multi-billion dollar concentrated long-term portfolio)
+      and venture capital (early-to-growth stage companies in manufacturing,
+      digital technologies, transportation, mobility, sustainability, and the
+      built environment).
+    tags: [Business Segment, Investments, Venture Capital]
+
+  - term: Winter Properties
+    definition: >-
+      The real estate arm of Standard Industries. A vertically integrated real
+      estate investment, management, and development firm with more than 100
+      years of history in New York City, operating across major US urban markets.
+    tags: [Business Segment, Real Estate]
+
+  - term: GAF
+    definition: >-
+      General Aniline & Film (GAF), a Standard Industries subsidiary, is North
+      America's largest roofing and waterproofing manufacturer. Protects more
+      US homes than any competitor.
+    tags: [Subsidiary, Roofing, North America]
+
+  - term: GAF Energy
+    definition: >-
+      Solar roofing subsidiary of Standard Industries. Manufactures Timberline
+      Solar, a nailable solar shingle system designed to install like a roof
+      and protect like a roof. Headquartered in San Jose, California.
+    tags: [Subsidiary, Solar, Roofing, Energy]
+
+  - term: BMI Group
+    definition: >-
+      Europe's largest pitched and flat roofing manufacturer, operating across
+      Europe, Asia, and Africa with more than 184 years of history. Brand
+      portfolio includes Braas, Monier, Icopal, Wolfin, and Redland. Spans
+      pitched, flat, green, blue, and civil engineering roofing applications.
+    tags: [Subsidiary, Roofing, Europe, Waterproofing]
+
+  - term: Siplast
+    definition: >-
+      Standard Industries subsidiary developing specialty roofing and
+      waterproofing systems for unique and iconic structures across North
+      America.
+    tags: [Subsidiary, Roofing, Waterproofing, Specialty]
+
+  - term: SGI (Specialty Granules)
+    definition: >-
+      Standard Industries mining and mineral processing subsidiary. Produces
+      roofing granules, building materials, and agricultural soil amendments
+      from quarried and processed mineral resources.
+    tags: [Subsidiary, Mining, Mineral Processing]
+
+  - term: Schiedel
+    definition: >-
+      European manufacturer of flue ducting, chimneys, stoves, and ventilation
+      systems serving residential, commercial, and industrial applications.
+      Operating company within Standard Building Solutions.
+    tags: [Subsidiary, Chimney, Ventilation, Europe]
+
+  - term: Standard Logistics
+    definition: >-
+      Standard Industries transportation and logistics provider with 22+ hub
+      locations across the 48 connecting US states. Provides freight and
+      distribution services for the portfolio's building products.
+    tags: [Subsidiary, Logistics, Transportation]
+
+  - term: W. R. Grace & Co.
+    definition: >-
+      Specialty chemicals subsidiary anchoring Standard Performance Materials.
+      Produces catalysts, engineered materials, process technologies, and fine
+      chemicals. Customers use Grace products to manufacture renewable fuels,
+      pharmaceuticals, and food packaging.
+    tags: [Subsidiary, Chemicals, Catalysts]
+
+  - term: Timberline Solar
+    definition: >-
+      GAF Energy's flagship product line — a nailable solar shingle system that
+      integrates photovoltaic energy generation into a traditional asphalt-shingle
+      roof. Includes successor generations such as Timberline Solar ES 2.
+    tags: [Product, Solar, Roofing, GAF Energy]
+
+  - term: Catalyst
+    definition: >-
+      A substance that accelerates a chemical reaction without itself being
+      consumed. W. R. Grace is a leading producer of catalysts used in refining,
+      petrochemicals, and renewable fuel production.
+    tags: [Chemistry, Product, Performance Materials]
+
+  - term: Privately Held
+    definition: >-
+      A corporation whose shares are not traded on a public stock exchange.
+      Standard Industries is privately held, ranked among America's largest
+      private companies (Forbes 2025) and New York's largest private companies
+      (Crain's 2025).
+    tags: [Corporate, Ownership]
+
+  - term: AI Challenge
+    definition: >-
+      Standard Industries' $1 Million AI Challenge to Transform Chemical
+      Innovation, launched in 2024 and won by Molecule.one in 2025. A
+      structured prize competition seeking AI-driven advances in chemical
+      synthesis and process design relevant to the Grace business.
+    tags: [Innovation, AI, Chemicals, Prize Competition]

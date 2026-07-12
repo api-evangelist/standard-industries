@@ -46,6 +46,8 @@ x-revenue: ~$11B
 x-employees: 20000+
 x-headquarters: New York, NY
 common:
+  - type: DomainSecurity
+    url: security/standard-industries-domain-security.yml
   - url: https://www.standardindustries.com/
     type: Portal
   - url: https://www.standardindustries.com/about

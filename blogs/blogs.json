@@ -3,12 +3,13 @@
   "feeds": [
     {
       "source": "https://www.standardindustries.com/articles",
-      "feed_url": "",
+      "feed_url": "https://www.standardindustries.com/articles",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T13:12:37Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 12,
-  "agent_pulled": "2026-06-27"
+  "agent_pulled": "2026-07-04"
 }

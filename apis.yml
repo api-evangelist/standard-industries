@@ -29,7 +29,7 @@ tags:
   - Logistics
   - Manufacturing
   - Performance Materials
-  - Real-Estate
+  - Real Estate
   - Roofing
   - Solar
   - Specialty Chemicals
@@ -49,6 +49,7 @@ tags_raw:
   - Specialty Chemicals
   - Venture Capital
   - Waterproofing
+  - Real-Estate
 type: Index
 deliveryModel:
   model: saas
